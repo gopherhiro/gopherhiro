@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gopherhiro
-- 👀 I’m interested in Go,Algotithm,Mysql,Redis,Kafka,System Design.
+- 👀 I’m interested in go,algotithm,mysql,redis,kafka,system design.
 - 🌱 I’m currently learning algorithm
 - 📫 How to reach me: buctghlong@163.com
 
